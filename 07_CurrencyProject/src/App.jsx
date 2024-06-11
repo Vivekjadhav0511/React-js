@@ -1,14 +1,13 @@
 import { useState } from 'react'
+
 import './App.css'
-import Passgenarator from './Passgenarator'
 
 function App() {
- 
+  
+
   return (
     <>
-  
-     <Passgenarator/>
-  
+      <h1>React Redux</h1>
     </>
   )
 }

@@ -2,6 +2,7 @@
 import './App.css'
 import BgChanger from './BgChanger'
 import IncrementDrement from './IncrementDrement'
+import PasswordGenarator from './PasswordGenarator'
 import Props from './Props'
 
 
@@ -20,10 +21,11 @@ function App() {
   }
   return (
     <>
-     <IncrementDrement/>
-     <Props name="Zara Wollen t-shirt" productOne={product}/>  {/* productOne={product} */}
-     <Props name="Gucci" productOne={productTwo}/>  {/* productOne={product} */}
-     <BgChanger/>
+    {/*  <IncrementDrement/> */}
+     {/* <Props name="Zara Wollen t-shirt" productOne={product}/>  {/* productOne={product} */}
+    {/*  <Props name="Gucci" productOne={productTwo}/>  {/* productOne={product} */}
+     {/* <BgChanger/> */}
+     <PasswordGenarator/>
     </>
   )
 }
