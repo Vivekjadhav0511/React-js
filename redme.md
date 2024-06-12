@@ -13,6 +13,7 @@ react_app:- npm create vite@latest
 <!-- ++++++++++++++++++++++++++++++++++++++= -->
 
 tailwind :- 
+
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
