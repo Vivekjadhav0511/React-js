@@ -42,3 +42,12 @@ https://latest.currency-api.pages.dev/v1/currencies/usd.json
 
 GitHub Api :- https://api.github.com/users/Vivekjadhav0511
  
+React Router Dom :- npm install react-router-dom
+
+Lucide React ;_ npm install lucide-react
+ 
+ react Redux toolkit :- npm install @reduxjs/toolkit
+
+ npm install react-redux
+
+  npm i appwrite @tinymce/tinymce-react html-react-parser react-hook-form
