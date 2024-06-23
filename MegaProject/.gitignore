@@ -10,7 +10,13 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
+package.json
+package-lock.json
+README.md
+vite.config.js
+.eslintrc.cjs
 *.local
+
 
 # Editor directories and files
 .vscode/*
