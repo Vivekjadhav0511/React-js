@@ -19,6 +19,7 @@ npx tailwindcss init -p
 
 
 <!-- Add the paths to all of your template files in your tailwind.config.js file. -->
+
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
@@ -30,6 +31,7 @@ export default {
   },
   plugins: [],
 }
+
 <!-- Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file. -->
 
 @tailwind base;
@@ -50,4 +52,4 @@ Lucide React ;_ npm install lucide-react
 
  npm install react-redux
 
-  npm i appwrite @tinymce/tinymce-react html-react-parser react-hook-form
+  npm i appwrite react-router-dom lucide-react @reduxjs/toolkit  react-redux @tinymce/tinymce-react html-react-parser react-hook-form
